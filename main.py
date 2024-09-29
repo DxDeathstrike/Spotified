@@ -217,7 +217,7 @@ while True:
     sleep(5)
 
     # Navigate to the specified URL
-    url = "https://open.spotify.com/playlist/3FxsH4NU0U85AltRFy2i2n"  # replace this with your playlist or profile URL
+    url = "https://open.spotify.com/user/21ozbve3o67rni2i266bspv5a"  # replace this with your playlist or profile URL
     driver.get(url)
 
     sleep(2.5)
